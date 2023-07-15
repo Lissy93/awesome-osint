@@ -60,7 +60,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Startpages](#-startpages)
  - [Browsers](#-browsers)
  - [Offline Browsing](#-offline-browsing)
- - [VPN Services](#-vpn-services)
  - [Note-taking](#-note-taking)
  - [Annotation Tools](#-annotation-tools)
  - [Writing and Office Tools](#-writing-and-office-tools)
@@ -1224,11 +1223,6 @@ algorithms, knowledgebase and AI technology.
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 * [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
-
-## [↑](#-Table-of-Contents) VPN Services
-
-* [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
-* [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
 ## [↑](#-Table-of-Contents) Note-taking
 
